@@ -50,7 +50,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [Paryanshu Sourav] - feel free to contact me!
 
 
 <!-- Optional -->
