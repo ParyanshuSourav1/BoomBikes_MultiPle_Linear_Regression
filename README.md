@@ -11,26 +11,26 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
+- Provide general information about your project here.:-
 Using multiple linear regression concept ,need to build a model for BoomBikes company
 
-- What is the background of your project?
+- What is the background of your project?:-
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
 
-- What is the business problem that your project is trying to solve?
+- What is the business problem that your project is trying to solve?:-
 Need to identify the most significant features in the demand of rental bikes.
 
-- What is the dataset that is being used?
+- What is the dataset that is being used?:-
 day dataset
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
+## Conclusions:-
 Formulated the model using eight features with r-square score 0.787846218596671
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
+## Technologies Used:-
 pandas
 numpy
 seaborn
